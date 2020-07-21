@@ -1,5 +1,5 @@
 # :man_technologist: Hello, I'm Joseph...
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/brisibe)](https://twitter.com/brisibe)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thebrisibe)](https://twitter.com/thebrisibe)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-brisibe-416a03171/)](https://www.linkedin.com/in/joseph-brisibe-416a03171/)
 [![GitHub followers](https://img.shields.io/github/followers/brisibe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/brisibe?tab=followers)
 
