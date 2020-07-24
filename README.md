@@ -1,7 +1,7 @@
 # :man_technologist: Hello, I'm Joseph...
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thebrisibe)](https://twitter.com/thebrisibe)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseph-brisibe-416a03171/)](https://www.linkedin.com/in/joseph-brisibe-416a03171/)
-[![GitHub followers](https://img.shields.io/github/followers/brisibe.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/brisibe?tab=followers)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/thebrisibe) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joseph-brisibe-416a03171)
+
+
 
 
 Hi, I'm Joseph Brisibe, a software developer based in Lagos, Nigeria. I enjoy solving problems with code :slightly_smiling_face: when i'm not coding you'll find me playing basketball :basketball:
