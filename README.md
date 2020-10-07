@@ -4,9 +4,8 @@
 
 
 
-Hi, I'm Joseph Brisibe, a software developer based in Lagos, Nigeria. I enjoy solving problems with code :slightly_smiling_face: when i'm not coding you'll find me playing basketball :basketball:
+Hi, I'm Joseph Brisibe, a software developer based in Lagos, Nigeria. I enjoy solving problems with code :slightly_smiling_face:
 
-I and my extraterrestrial team are currently building `Uber for Aliens` see you guys in mars. :wink: 
 
 Ask me about anything Javascript..
 
